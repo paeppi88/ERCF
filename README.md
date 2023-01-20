@@ -7,7 +7,7 @@ The parts were printed before the ERCF was in use, so the letters were designed 
 # BOM
 
 - 2x 2020 extrusion 300mm for Voron 2.4 300
-- 4x T-Nut M3 
-- 4x T-Nut M5 
-- 4x M3*20 BHSC 
-- 4x M5x10 BHSC
+- 8x T-Nut M3 
+- 8x T-Nut M5 
+- 8x M3*20 BHSC 
+- 8x M5x10 BHSC
